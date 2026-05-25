@@ -10,9 +10,9 @@
 
 I'm an ECE student at Princeton interested in building useful software — especially tools that use AI to solve hard, real problems. I've worked on agentic pipelines, full-stack web apps, and backend systems. I like projects with real scope: not toy datasets or tutorial CRUD apps, but things with moving parts that break in interesting ways.
 
-- 🔭 Currently building: AI-powered workflows for construction billing and ed-tech
-- 🧠 Interested in: agentic systems, LLM evaluation, full-stack product engineering
-- 📬 Reach me: [js6781@princeton.edu](mailto:js6781@princeton.edu)
+- Currently building: AI-powered workflows for construction billing and ed-tech
+- Interested in: agentic systems, LLM evaluation, full-stack product engineering
+- Reach me: [js6781@princeton.edu](mailto:js6781@princeton.edu)
 
 ---
 
