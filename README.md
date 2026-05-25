@@ -55,7 +55,3 @@ AI-powered study assistant. Generates flashcards, runs Feynman-method feedback s
 Full-stack LLM benchmarking platform. Researchers take multi-hop neuroscience reasoning challenges and compare their scores against a 32B-parameter model.  
 `TypeScript` `Next.js` `Prisma` `SQLite`
 ---
-
-![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakeStephen613&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeStephen613&layout=compact&theme=github_dark&hide_border=true)
